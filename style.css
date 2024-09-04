@@ -1,4 +1,4 @@
-/* General Styling */
+
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 body {
     font-family: "Montserrat", sans-serif;
@@ -9,7 +9,7 @@ body {
     text-align: center;
 }
 
-/* Header Styling */
+
 h1 {
     font-size: 42px;
     color: #ff6f61;
@@ -32,7 +32,7 @@ h4 {
     text-shadow: 1px 1px #bde0fe;
 }
 
-/* List Containers */
+
 .lists {
     max-width: 800px;
     margin: 20px auto;
@@ -44,7 +44,7 @@ h4 {
     border: 2px solid #d8f3dc;
 }
 
-/* Ordered List Styling */
+
 ol {
     list-style: none;
     padding: 0;
@@ -72,7 +72,7 @@ ol img:hover {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 }
 
-/* Link Styling */
+
 a {
     display: inline-block;
     text-decoration: none;
